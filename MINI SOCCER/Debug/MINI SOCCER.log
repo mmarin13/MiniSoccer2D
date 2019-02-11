@@ -1,0 +1,16 @@
+﻿  Timer.cpp
+  TextureManager.cpp
+  Sound.cpp
+  Score.cpp
+  Point2D.cpp
+  Map.cpp
+  MiniSoccer.cpp
+  Player.cpp
+  Gate.cpp
+  Game.cpp
+  Collision.cpp
+  Button.cpp
+  Ball.cpp
+  Generating Code...
+  MINI SOCCER.vcxproj -> D:\Dev\MINI SOCCER\Debug\MINI SOCCER.exe
+  MINI SOCCER.vcxproj -> D:\Dev\MINI SOCCER\Debug\MINI SOCCER.pdb (Partial PDB)
